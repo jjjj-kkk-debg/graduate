@@ -1,0 +1,11 @@
+﻿{
+    "appPort":  8109,
+    "dbPort":  3328,
+    "rootPassword":  "b1fc8ca74dc54f3c9b3a76b3fe82dcf3",
+    "dbPassword":  "f9303c8898024850918bbd37fca8296b",
+    "appPid":  28144,
+    "dbPid":  20272,
+    "initialized":  true,
+    "dataRoot":  "D:\\graduationProject\\runtime\\juxia-data",
+    "dbConfig":  "D:\\graduationProject\\runtime\\juxia-data\\mysql.ini"
+}

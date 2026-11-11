@@ -1,0 +1,4 @@
+# Copy this file to .local/ai.properties. Do not deliver a real private key.
+app.ai.key=
+app.ai.base=https://api.deepseek.com
+app.ai.model=deepseek-flash
